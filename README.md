@@ -6,7 +6,7 @@
 * Bachelors of Science (Data Science), *Vellore Institute of Technology (2018)*, GPA: 7.76
 
 # [Customer Segmentation Using Clustering](https://github.com/CSmahesh04/Customer_Segmentation_Cluster)
-![crypto sentiment analysis](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+![crypto sentiment analysis](https://github.com/CSmahesh04/Portfolio/blob/main/george-bakos-MznGSDZXbhg-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
