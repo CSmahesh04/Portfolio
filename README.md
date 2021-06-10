@@ -8,8 +8,6 @@
 # [Customer Segmentation Using Clustering](https://github.com/CSmahesh04/Customer_Segmentation_Cluster)
 ![crypto sentiment analysis](george-bakos-MznGSDZXbhg-unsplash(1).jpg)
 
-Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
 Created customer groups based on their purchase behaviour using Clustering models for a focused marketing campaign.
 * **Python libraries used:** Python, Plotly, TensorFlow
 * **Category:** Unsupervised Learning, Marketing
