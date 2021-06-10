@@ -1,4 +1,4 @@
-# About Me
+# Mahesh Chandra
 *An immensely passionate Data Scientist skilled in Data Visualization, Product Sense and Machine Learning.*
 
 # Education
