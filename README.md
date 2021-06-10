@@ -1,6 +1,3 @@
-<h1 align='center'>About Me</h1> 
-*An immensely passionate Data Scientist skilled in Data Visualization, Product Sense and Machine Learning.*
-
 <h1 align='center'>Education</h1> 
 * Masters of Science (Computer Engineering), *University of Delaware (2020)*, GPA: 3.55 
 * Bachelors of Science (Data Science), *Vellore Institute of Technology (2018)*, GPA: 7.76
