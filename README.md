@@ -8,6 +8,8 @@
 # [Customer Segmentation Using Clustering](https://github.com/CSmahesh04/Customer_Segmentation_Cluster)
 ![crypto sentiment analysis](george-bakos-MznGSDZXbhg-unsplash(1).jpg)
 
+Photo by George Bakos</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 Created customer groups based on their purchase behaviour using Clustering models for a focused marketing campaign.
 * **Python libraries used:** Python, Plotly, TensorFlow
 * **Category:** Unsupervised Learning, Marketing
@@ -15,7 +17,7 @@ Created customer groups based on their purchase behaviour using Clustering model
 # [Spotify Song Recommender](https://github.com/CSmahesh04/Chillar-Tunes)
 ![crypto trading bot](austin-distel-EMPZ7yRZoGw-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Austin Distel</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by George Bakos</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Built a personalized song recommendation model based on user's liked songs and playlists. Pulled data using Spotify API and automate creating playlists directly on Spotify.
 * **Python libraries used:** Python, Scikit-Learn, SpotiPy
@@ -24,7 +26,7 @@ Built a personalized song recommendation model based on user's liked songs and p
 # [Mood Detection and Keypoint Detector](https://github.com/CSmahesh04/Facial_Expression_Keypoint_Detection)
 ![crypto sentiment analysis](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by George Bakos</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Implemented a Mood Detection and Facial Keypoint Detector model using Residual Blocks and CNNs.
 * **Python libraries used:** Python, Plotly, TensorFlow, Keras
@@ -33,7 +35,7 @@ Implemented a Mood Detection and Facial Keypoint Detector model using Residual B
 # [Credit Card Defaulter](https://github.com/CSmahesh04/Credit_Card_Defaulter)
 ![crypto sentiment analysis](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by George Bakos</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Analyzed customer payment and demographic information to predict whether they will default on future credit card payments.
 * **Python libraries used:** Python, Scikit-Learn
@@ -42,7 +44,7 @@ Analyzed customer payment and demographic information to predict whether they wi
 # [Distributed Group Membership Protocol](https://github.com/CSmahesh04/Distributed-Group-Membership-Service)
 ![crypto sentiment analysis](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by George Bakos</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Built a scalable Group Membership Protocol with failure detection and information dissemination with a time-bound completeness of 10 seconds.
 * **Python libraries used:** Python
