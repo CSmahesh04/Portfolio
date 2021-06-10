@@ -1,13 +1,13 @@
-# Mahesh Chandra
+<h1 align='center'>About Me</h1> 
 *An immensely passionate Data Scientist skilled in Data Visualization, Product Sense and Machine Learning.*
 
-# Education
+<h1 align='center'>Education</h1> 
 * Masters of Science (Computer Engineering), *University of Delaware (2020)*, GPA: 3.55 
 * Bachelors of Science (Data Science), *Vellore Institute of Technology (2018)*, GPA: 7.76
 
-# Projects
+<h1 align='center'>Projects</h1> 
 
-## [Customer Segmentation Using Clustering](https://github.com/CSmahesh04/Customer_Segmentation_Cluster)
+### [Customer Segmentation Using Clustering](https://github.com/CSmahesh04/Customer_Segmentation_Cluster)
 ![crypto sentiment analysis](george-bakos-MznGSDZXbhg-unsplash(1).jpg)
 
 Photo by George Bakos on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
